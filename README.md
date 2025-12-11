@@ -143,6 +143,7 @@ You need:
 2. Drag the original `.wav.ckd` and press Enter (template)
 3. Drag your edited `.wav` and press Enter
 4. Enter a name for the output CKD, e.g. `seven_mod.wav.ckd`
+5. The file will save in the output folder.
 
 ### The tool will:
 - Call `xma2encode` to encode your WAV to XMA2
